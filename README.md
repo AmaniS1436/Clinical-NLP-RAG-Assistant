@@ -72,7 +72,5 @@ Python · Pandas · NumPy · scikit-learn · Matplotlib · Hugging Face `transfo
 - Faithfulness / answer-completeness metrics
 - FastAPI service + Docker packaging for a deployable demo
 
-## Author
 
-**SAAL Nour Amani** — [github.com/AmaniS1436](https://github.com/AmaniS1436)
 
